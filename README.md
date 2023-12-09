@@ -8,9 +8,10 @@ Ryan Parman is a cloud-native engineering leader with a focus on reliability, sc
 
 ----
 
-<picture>
-  <img src="https://raw.githubusercontent.com/skyzyx/skyzyx/main/github-metrics.svg" alt="Metrics">
-</picture>
+<div>
+  <img src="https://raw.githubusercontent.com/skyzyx/skyzyx/main/info.svg" alt="Metrics"><br><br>
+  <img src="https://raw.githubusercontent.com/skyzyx/skyzyx/main/languages.svg" alt="Metrics"><br><br>
+</div>
 
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=skyzyx"><br><br>
