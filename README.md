@@ -6,6 +6,10 @@ Ryan Parman is a cloud-native engineering leader with a focus on reliability, sc
 
 → See [résumé](https://github.com/skyzyx/resume/blob/master/README.md).
 
+<a href="https://stackoverflow.com/users/228514/ryan-parman">
+<picture><img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/228514?theme=monokai" alt="Stack Overflow profile"></picture>
+</a>
+
 ----
 
 <picture><img src="https://raw.githubusercontent.com/skyzyx/skyzyx/main/info.svg" alt="Info"></picture>
@@ -13,10 +17,6 @@ Ryan Parman is a cloud-native engineering leader with a focus on reliability, sc
 ----
 
 <picture><img src="https://raw.githubusercontent.com/skyzyx/skyzyx/main/achievements.svg" alt="Achievements" width="100%"></picture>
-
-----
-
-<picture><img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/228514?theme=monokai" alt="Stack Overflow profile"></picture>
 
 <!--
 <img src="https://github-profile-trophy.vercel.app/?username=skyzyx"><br><br>
