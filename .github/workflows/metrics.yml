@@ -22,8 +22,10 @@ jobs:
           user: skyzyx
           template: classic
           base: header, repositories, metadata
+          repositories: 250
           config_display: columns
           config_timezone: America/Denver
+          config_padding: 20
 
       - name: Achievements
         uses: skyzyx/metrics@master
@@ -38,6 +40,7 @@ jobs:
           plugin_achievements_threshold: C
           config_display: columns
           config_timezone: America/Denver
+          config_padding: 20
 
       - name: Habits
         uses: skyzyx/metrics@master
@@ -56,6 +59,7 @@ jobs:
           plugin_habits_trim: yes
           config_display: columns
           config_timezone: America/Denver
+          config_padding: 20
 
       - name: Languages
         uses: skyzyx/metrics@master
@@ -72,6 +76,7 @@ jobs:
           plugin_languages_sections: most-used
           config_display: columns
           config_timezone: America/Denver
+          config_padding: 20
 
       - name: Reactions
         uses: skyzyx/metrics@master
@@ -88,6 +93,7 @@ jobs:
           plugin_reactions_limit_issues: 100
           config_display: columns
           config_timezone: America/Denver
+          config_padding: 20
 
       - name: Sponsorships
         uses: skyzyx/metrics@master
@@ -101,3 +107,4 @@ jobs:
           plugin_sponsorships_size: 64
           config_display: columns
           config_timezone: America/Denver
+          config_padding: 20
