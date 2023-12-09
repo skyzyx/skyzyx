@@ -16,3 +16,5 @@ jobs:
       - uses: skyzyx/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: true
+                   
