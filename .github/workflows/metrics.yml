@@ -23,7 +23,6 @@ jobs:
           template: classic
           base: header, repositories, metadata
           repositories: 250
-          config_display: columns
           config_timezone: America/Denver
           config_padding: 20
 
