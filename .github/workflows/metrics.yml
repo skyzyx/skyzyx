@@ -13,6 +13,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: skyzyx/metrics@latest
+      - uses: skyzyx/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
