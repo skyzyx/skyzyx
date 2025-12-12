@@ -16,10 +16,6 @@ Cloud engineering leader with a diverse background spanning design, development,
 
 ----
 
-<picture><img src="https://raw.githubusercontent.com/skyzyx/skyzyx/main/languages.svg" alt="Languages" width="100%"></picture>
-
-----
-
 <picture><img src="https://raw.githubusercontent.com/skyzyx/skyzyx/main/achievements.svg" alt="Achievements" width="100%"></picture>
 
 <!--
